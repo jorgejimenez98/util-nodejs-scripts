@@ -1,4 +1,4 @@
-# Utils Scripts Repository
+# Utils Scripts Repository for projects management
 
 This repository contains several useful scripts for performing specific tasks in the development and translation domain.
 
